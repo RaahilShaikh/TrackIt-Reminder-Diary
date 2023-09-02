@@ -1,0 +1,17 @@
+enum FontFamily {
+  alumniSansBold,
+  alumniSansMedium,
+  alumniSansRegular,
+  alumniSansSemiBold,
+  sfProBold,
+  sfProSemiBold,
+  sfProMedium,
+  sfProRegular,
+  oswaldRegular,
+  oswaldMedium,
+  oswaldSemiBold,
+  oswaldBold,
+  robotoRegular,
+  robotoMedium,
+  robotoBold,
+}
