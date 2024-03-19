@@ -11,7 +11,7 @@ TrackIt is a feature-rich mobile application designed to serve as a versatile re
 **My Pocket Section for Quick Access** : Visually appealing UI cards in the "My Pocket" section provide users with an overview of their tasks and notes, enhancing user engagement and convenience. Quick access to tasks and notes directly from the pocket section ensures efficiency in managing daily activities and thoughts.
 
 
-![Screen1.png](images%2FScreen1.png)
+![Screen1.png](images%2FTrackItReminderDiaryMainPage.png)
 
 ![Screen2.png](images%2FScreen2.png)
 
